@@ -36,7 +36,7 @@ It can help to improve a person's concentration as well as strategic thinking
 
 ## Defining Our System
 
-![Description](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/flow.png?raw=true)
+![Description](https://github.com/Aranshu/Tic-Tac-Toe/blob/master/6_Media/flow.png?raw=true)
 ### Explanation:
 * The game starts giving you three input options(1, 2, 3):
     * 1 means you play using 'X'.
@@ -51,7 +51,7 @@ It can help to improve a person's concentration as well as strategic thinking
 * If not, then it again checks if it is a draw situation.
 
 ## SWOT ANALYSIS
-![SWOT Analysis](https://github.com/ArnoldKevinDesouza/Tic-Tac-Toe/blob/main/6_Media/swot.png?raw=true)
+![SWOT Analysis](https://github.com/Aranshu/Tic-Tac-Toe/blob/master/6_Media/swot.png?raw=true)
 
 # 4W&#39;s and 1&#39;H
 
