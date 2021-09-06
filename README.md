@@ -2,7 +2,7 @@
 * Tic-tac-toe, also known as noughts and crosses, or Xs and Os/“X’y O’sies”, is a game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a diagonal, horizontal, or vertical row is the winner. It is a solved game with a forced draw assuming best play from both players. It is usually played on paper but as the technology evolved, here is a digital version of it.
 
 <p align="center">
-    <img src="https://freepikpsd.com/wp-content/uploads/2019/11/Tictactoe_Game_Ticktacktoe_93183-Transparent-Png-Images.png">
+    <img src="https://github.com/Aranshu/C-Tic-Tac-Toe/blob/master/6_Media/Banner.png?raw=true">
 </p>
 
 ## Folder Structure
