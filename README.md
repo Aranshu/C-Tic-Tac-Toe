@@ -19,5 +19,4 @@
 ## Learning Resources
 1. [geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
 2. [tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.htm)
-3. [Site](https://aranshu.github.io/C-Tic-Tac-Toe/)
 
